@@ -1,1 +1,1 @@
-print("hola soy ezequiel salguero")
+print("hola soy ezequiel salguero estoy en informatica")
