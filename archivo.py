@@ -1,2 +1,1 @@
-# Codigo en python
-print("Hola, soy Nacho Lavaggi")
+print("hola soy ezequiel salguero")
